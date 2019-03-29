@@ -5,6 +5,7 @@ import (
 	"sort"
 )
 
+// https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/2/ITP1_2_C
 func main() {
 	var x, y, z int
 	fmt.Scan(&x, &y, &z)
